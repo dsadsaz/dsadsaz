@@ -2,7 +2,7 @@
 
 **`Software Engineer Wanna Be`**
 
-Hi my name is Giuseppe Tringale, and altough I'm a Business Economics student several months ago I started my coding journey. It began with learning about the core princples of programming, and some CS theory like Data Structures and Algos. In this period, I'm trying to get familiar and get my hands dirty with Web Development and Python automation
+Hi my name is Giuseppe Tringale, and altough I'm a Business Economics student several months ago I started my coding journey. It began with learning about the core princples of programming, and some CS theory like Data Structures and Algos. In the last period, I'm trying to get familiar with Web Development and Python automations
 
 
 ---
