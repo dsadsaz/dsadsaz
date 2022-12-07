@@ -25,7 +25,7 @@ Hi my name is Giuseppe Tringale, and altough I'm a Business Economics student, s
 
 - [Lines of Code](https://github.com/dsadsaz/Lines-of-code)
 - [Google Mock up](https://github.com/dsadsaz/Google-Mock-up) 
-- [Wiki Backedn](https://github.com/dsadsaz/Wiki-Backend) 
+- [Wiki Backend](https://github.com/dsadsaz/Wiki-Backend) 
 - Python Password Generator (work in progress) 
 - Python Big Automation project (also work in progress)
           
